@@ -1,0 +1,45 @@
+.btn-counter {
+    margin-left: 33.33%;
+    background-color: green;
+    color:white;
+    padding:10px;
+    font-size: large;
+    margin-top: 20px;
+    width:80px;
+    border-radius: 30px;
+    
+}
+.btn2-counter{
+    margin-left: 10px;
+    background-color: green;
+    color:white;
+    padding:10px;
+    font-size: large;
+    margin-top: 20px;
+    width:80px;
+    border-radius: 30px;
+    
+}
+
+.count{
+    font-size: large;
+    padding:20px;
+    
+}
+.span-counter{
+    font-size: 100px;
+    color:black;
+    margin-left: 33.33%;
+    margin-top: 20px;
+}
+.reset{
+    text-align: center;
+    margin-top: 20opx;
+    margin-left: -30%;
+    background-color: brown;
+    color:black;
+    padding:10px;
+    width:200px;
+    font-size: large;
+    border-radius: 30px;
+}
